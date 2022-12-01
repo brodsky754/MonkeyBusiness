@@ -3,4 +3,5 @@ The codebase for our website about monkeys
 
 Team names:
 
-Bradford Tudor 
+Bradford Tudor
+Justin Pretre
