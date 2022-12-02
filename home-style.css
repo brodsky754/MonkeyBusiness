@@ -29,6 +29,32 @@ nav {
     line-height: 58px;
     color: #000000;
 }
+.title {
+    font-family: "BebasNeue-Regular";
+    font-size: 225px;
+    line-height: 270px;
+    text-align: center;
+    justify-content: center;
+    color: #FFFFFF;
+    padding-top: 350px;
+}
+
+.title-img {
+    position: absolute;
+    z-index: 10;
+    width: 374px;
+    height: 538px;
+    top: 78px;
+    left: 835px;
+}
+
+.arrow {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    font-size: 100px;
+    color: #FFFFFF;
+}
 
 @font-face {
     font-family: "BebasNeue-Regular";
