@@ -1,0 +1,74 @@
+body {
+    background-color: black;
+}
+
+nav {
+    width: 100vw;
+}
+.navbar {
+    background-color: white;
+    padding: 0rem 1rem
+}
+.navbar-brand {
+    padding-bottom: 0rem;
+}
+
+.nav-link {
+    color: black;
+    font-family: "Montserrat-Regular";
+}
+
+.nav-link:hover {
+    font-family: "Montserrat-SemiBold";
+}
+
+.logo-text {
+    font-family: "BebasNeue-Regular";
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+}
+
+@font-face {
+    font-family: "BebasNeue-Regular";
+    src:url('BebasNeue-Regular.ttf')
+}
+@font-face {
+    font-family: "Montserrat-Regular";
+    src:url('Montserrat-Regular.ttf')
+}
+@font-face {
+    font-family: "Montserrat-SemiBold";
+    src:url('Montserrat-SemiBold.ttf')
+}
+
+.imgtitle {
+    font-family: "BebasNeue-Regular";
+    color: white;
+    font-size: 40px;
+}
+
+.logo {
+    padding: 50px;
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 12px;
+}
+  
+ 
+.column {
+    flex: 100%;
+    max-width: 100%;
+    padding: 0 12px;
+}
+  
+.column img {
+    vertical-align: middle;
+    width: 100%;
+}
+
