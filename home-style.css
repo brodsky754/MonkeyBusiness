@@ -29,6 +29,108 @@ nav {
     line-height: 58px;
     color: #000000;
 }
+.title {
+    font-family: "BebasNeue-Regular";
+    font-size: 225px;
+    line-height: 270px;
+    text-align: center;
+    justify-content: center;
+    color: #FFFFFF;
+    padding-top: 350px;
+}
+
+.title-img {
+    position: absolute;
+    z-index: 10;
+    width: 374px;
+    height: 538px;
+    top: 78px;
+    left: 55%;
+}
+
+.arrow {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    font-size: 100px;
+    color: #FFFFFF;
+}
+
+.section-title-text {
+    font-family: "BebasNeue-Regular";
+    font-size: 64px;
+    line-height: 77px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.gorilla {
+    margin-top: 8px;
+    width: 60px;
+    height: 60px;
+}
+
+.section-title-box {
+    display: flex;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: -25px;
+}
+
+.content-box {
+    border: 2px solid #FFFFFF;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: "BebasNeue-Regular";
+    font-size: 32px;
+    color: #FFFFFF;
+    text-align: center;
+    overflow: scroll;
+}
+
+.line {
+    margin-top: 35px;
+    border: 2px solid #FFFFFF;
+    width: 25vw;
+    height: 0px;
+}
+
+.pictures {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.pictures img {
+    width: 277px;
+    height: 414px;
+    object-fit: cover;
+}
+
+#edward {
+    object-position: -300px 0px;
+}
+
+.pictures .content-box {
+    padding: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.pictures p {
+    font-family: "BebasNeue-Regular";
+    font-size: 32px;
+    color: #FFFFFF;
+    margin-left: 5px;
+}
 
 @font-face {
     font-family: "BebasNeue-Regular";
