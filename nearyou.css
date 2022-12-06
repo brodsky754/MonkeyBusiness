@@ -19,3 +19,12 @@
     text-align: center;
 }
 
+.near-you-logo {
+    height: 700px;
+    width: 1100px;
+}
+
+.map-image {
+    height: 500px;
+    width: 100%;
+}

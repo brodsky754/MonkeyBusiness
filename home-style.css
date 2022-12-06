@@ -144,3 +144,8 @@ nav {
     font-family: "Montserrat-SemiBold";
     src:url('Montserrat-SemiBold.ttf')
 }
+
+.nav-monkey-logo {
+    width: 40px;
+    height: 40px;
+}

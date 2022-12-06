@@ -3,6 +3,11 @@
     width: 100%;
 }
 
+.logo-image {
+    height: 700px;
+    width: 800px;
+}
+
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -13,13 +18,13 @@
 .column {
     flex: 50%;
     max-width: 50%;
-    padding: 0 12px;
+    padding: 0 80px;
 }
   
 .column img {
-    
     vertical-align: middle;
     width: 100%;
+    padding-bottom: 100px;
 }
 
 .img-title {
@@ -30,9 +35,20 @@
     border: 2px solid white;
 }
 
-.gorilla img {
-    width: 200px;
-    position: absolute; 
-    right: 150px;
-    top: 820px;
+#gorilla {
+    width: 350px;
+    height: 300px;
+    padding-bottom: 0px;
+}
+
+.space-monkey, .driver-monkey, .rafiki {
+    height: 500px;
+}
+
+.sergio-image {
+    height: 450px;
+}
+
+.bored-ape {
+    height: 400px;
 }
