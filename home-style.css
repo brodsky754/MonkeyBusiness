@@ -45,7 +45,7 @@ nav {
     width: 374px;
     height: 538px;
     top: 78px;
-    left: 835px;
+    left: 55%;
 }
 
 .arrow {
@@ -89,6 +89,7 @@ nav {
     font-size: 32px;
     color: #FFFFFF;
     text-align: center;
+    overflow: scroll;
 }
 
 .line {
