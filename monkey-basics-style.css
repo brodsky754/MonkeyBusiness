@@ -22,6 +22,11 @@ nav {
     font-family: "Montserrat-SemiBold";
 }
 
+.nav-monkey-logo {
+    width: 40px;
+    height: 40px;
+}
+
 .logo-text {
     font-family: "BebasNeue-Regular";
     font-weight: 400;
@@ -45,7 +50,7 @@ nav {
     width: 374px;
     height: 538px;
     top: 78px;
-    left: 920px;
+    left: 61%;
 }
 
 .arrow {
