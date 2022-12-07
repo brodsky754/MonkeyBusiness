@@ -1,0 +1,22 @@
+.imagesize {
+    width: 300px;
+    margin: 50px;
+}
+body {
+    background-color: black;
+}
+.monkeynames {
+    text-align: center;
+    color: white;
+    font-family: "BebasNeue-Regular";
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+}
+.left-adjust {
+    margin-left: 40px;
+}
+.shift {
+  margin-left: 100px;
+}
+
