@@ -1,3 +1,13 @@
+.title-img {
+    top: 110px;
+    left: 59%;
+}
+
+.title {
+    line-height: 290px;
+    padding-top: 390px;
+}
+
 .card-title {
     font-family: "BebasNeue-Regular";
     color: white;
