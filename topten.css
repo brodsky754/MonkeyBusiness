@@ -1,0 +1,62 @@
+.title-img {
+    top: 110px;
+}
+
+.title {
+    padding-top: 390px;
+}
+
+.logo {
+    padding: 50px;
+    width: 100%;
+}
+
+.logo-image {
+    height: 700px;
+    width: 800px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 40px;
+    padding-left: 60px;
+}
+  
+.column {
+    flex: 50%;
+    max-width: 50%;
+    padding: 0 80px;
+}
+  
+.column img {
+    vertical-align: middle;
+    width: 100%;
+    padding-bottom: 100px;
+}
+
+.img-title {
+    text-align: center;
+    font-family: "BebasNeue-Regular";
+    color: white;
+    font-size: 40px;
+    border: 2px solid white;
+}
+
+#gorilla {
+    width: 350px;
+    height: 300px;
+    padding-bottom: 0px;
+}
+
+.space-monkey, .driver-monkey, .rafiki {
+    height: 500px;
+}
+
+.sergio-image {
+    height: 450px;
+}
+
+.bored-ape {
+    height: 400px;
+}

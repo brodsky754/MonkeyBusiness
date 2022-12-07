@@ -29,6 +29,7 @@ nav {
     line-height: 58px;
     color: #000000;
 }
+
 .title {
     font-family: "BebasNeue-Regular";
     font-size: 225px;
@@ -143,4 +144,9 @@ nav {
 @font-face {
     font-family: "Montserrat-SemiBold";
     src:url('Montserrat-SemiBold.ttf')
+}
+
+.nav-monkey-logo {
+    width: 40px;
+    height: 40px;
 }
